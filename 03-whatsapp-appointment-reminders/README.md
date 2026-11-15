@@ -21,7 +21,8 @@ Every day at 10 AM → Tomorrow's bookings (Google Calendar) → Said yes to rem
    ```
    Change the business name and address to yours. Give the examples Alex, men's haircut and 4:00 PM, then submit it. It must be **Active** before n8n can send it.
 3. **Import the reminders workflow:** **⋯** → **Import** → **From URL**:
-   ```https://raw.githubusercontent.com/quophysage-Storming/Ai-chatbot-s/refs/heads/main/03-whatsapp-appointment-reminders/appointment-reminders.json
+```
+https://raw.githubusercontent.com/quophysage-Storming/Ai-chatbot-s/refs/heads/main/03-whatsapp-appointment-reminders/appointment-reminders.json
    ```
 4. **Workflow time zone:** **⋯** → **Settings** → **Timezone** → your business's time zone → **Save**. The template uses America/New_York. Change it in **Reminder details** too, in the `time` field, and in the calendar node's **Timezone** option.
 5. **Tomorrow's bookings:** connect Google and pick your bookings calendar.
