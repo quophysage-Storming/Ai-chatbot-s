@@ -1,0 +1,24 @@
+# Bot Playbook: free templates
+
+Every Bot Playbook tutorial on YouTube comes with the finished workflow, free. Import it, add your own keys, and it runs.
+
+| # | Template | Tools |
+|---|---|---|
+| 1 | [WhatsApp AI Chatbot](01-whatsapp-ai-chatbot/) answers customers 24/7, remembers each conversation, saves leads to Google Sheets | n8n, WhatsApp Cloud API, Google Gemini |
+| 2 | [WhatsApp AI Booking Bot](02-whatsapp-ai-booking-bot/) checks your Google Calendar, offers free times and books appointments by itself | n8n AI Agent, Google Calendar, Google Gemini |
+| 3 | [WhatsApp Appointment Reminders](03-whatsapp-appointment-reminders/) every morning, sends each customer who said yes a WhatsApp reminder about tomorrow's booking | n8n Schedule Trigger, Google Calendar, WhatsApp template messages |
+| 4 | [WhatsApp AI Booking Bot: move and cancel](04-whatsapp-reschedule-cancel-bot/) lets customers move or cancel their own booking by chat, after confirming | n8n AI Agent, Google Calendar, Google Gemini |
+| 5 | [AI Email Assistant](05-ai-email-assistant/) sorts every new email as a lead, support or spam and drafts the replies. It never sends anything by itself | n8n Gmail Trigger, Basic LLM Chain, Google Gemini |
+
+## How to use a template
+
+1. Open the template's folder above and follow its README.
+2. In n8n, open a new workflow, use the **⋯** menu, then **Import**, then **From URL**, and paste the template's link. Or download the `.json` file and use **Import from File**.
+3. Add your own credentials. Templates never contain keys, tokens or IDs.
+
+Free to use, change, and use for your clients ([MIT License](LICENSE)).
+
+**Watch the tutorials:** [youtube.com/@BotPlaybook](https://www.youtube.com/@BotPlaybook)
+**Want it built for you?** Bot Playbook is made by SystemSync AI: [fiverr.com/systemsyncai](https://www.fiverr.com/systemsyncai)
+
+Not affiliated with WhatsApp, Meta, n8n or Google.
