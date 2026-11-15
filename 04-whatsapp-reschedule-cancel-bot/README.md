@@ -20,7 +20,7 @@ The AI Agent's five tools:
 
 1. **Import:** in n8n, open a new workflow, then **⋯** → **Import** → **From URL**:
    ```
-   https://raw.githubusercontent.com/shafiqa123personal-do/bot-playbook-templates/main/04-whatsapp-reschedule-cancel-bot/whatsapp-ai-booking-bot-move-cancel.json
+   https://raw.githubusercontent.com/quophysage-Storming/Ai-chatbot-s/refs/heads/main/04-whatsapp-reschedule-cancel-bot/whatsapp-ai-booking-bot-move-cancel.json
    ```
 2. **Connect your accounts,** as in the [Episode 2 template](../02-whatsapp-ai-booking-bot/):
    - WhatsApp Trigger and Send reply: your WhatsApp app
