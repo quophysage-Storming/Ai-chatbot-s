@@ -12,7 +12,7 @@ AI Agent uses: Google Gemini · Simple Memory · Check calendar · Book appointm
 
 1. **Import:** in n8n, open a new workflow, then use the **⋯** menu → **Import** → **From URL** and paste this link:
    ```
-   https://raw.githubusercontent.com/shafiqa123personal-do/bot-playbook-templates/main/02-whatsapp-ai-booking-bot/whatsapp-ai-booking-bot.json
+   https://raw.githubusercontent.com/quophysage-Storming/Ai-chatbot-s/refs/heads/main/02-whatsapp-ai-booking-bot/whatsapp-ai-booking-bot.json
    ```
    Or download [`whatsapp-ai-booking-bot.json`](whatsapp-ai-booking-bot.json) and use **Import from File**.
 2. **WhatsApp, Gemini and Google Sheets:** set them up exactly like Episode 1. The steps are in the [Episode 1 template](../01-whatsapp-ai-chatbot/).
