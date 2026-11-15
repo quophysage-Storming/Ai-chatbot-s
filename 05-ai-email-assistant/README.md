@@ -21,7 +21,7 @@ Every new email gets read by an AI and sorted as a **Lead**, **Support** or **Sp
 
 1. **Import:** in n8n, open a new workflow, then **⋯** → **Import** → **From URL**:
    ```
-   https://raw.githubusercontent.com/shafiqa123personal-do/bot-playbook-templates/main/05-ai-email-assistant/ai-email-assistant.json
+   https://raw.githubusercontent.com/quophysage-Storming/Ai-chatbot-s/refs/heads/main/05-ai-email-assistant/ai-email-assistant.json
    ```
 2. **Gmail:** open each of the four Gmail nodes and pick your Gmail credential. On n8n Cloud, create it with **Sign in with Google**. If you host n8n yourself, follow n8n's Google OAuth guide first: https://docs.n8n.io/integrations/builtin/credentials/google/oauth-single-service/
 3. **Your Lead label:** make a label called Lead in Gmail and give it a colour, then pick it in **Add label to message**.
