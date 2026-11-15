@@ -19,6 +19,6 @@ Every Bot Playbook tutorial on YouTube comes with the finished workflow, free. I
 Free to use, change, and use for your clients ([MIT License](LICENSE)).
 
 **Watch the tutorials:** [youtube.com/@BotPlaybook](https://www.youtube.com/@BotPlaybook)
-**Want it built for you?** Bot Playbook is made by SystemSync AI: [fiverr.com/systemsyncai](https://www.fiverr.com/systemsyncai)
+**Want it built for you?** Bot Playbook is made by Sage made it: [wa.me/+233598432315](https://www.instagram/itshadowsage)
 
 Not affiliated with WhatsApp, Meta, n8n or Google.
