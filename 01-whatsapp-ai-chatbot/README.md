@@ -11,7 +11,7 @@ WhatsApp Trigger → Only text messages → AI Agent (Google Gemini + Simple Mem
 
 1. **Import:** in n8n, open a new workflow, then use the **⋯** menu → **Import** → **From URL** and paste this link:
    ```
-   https://raw.githubusercontent.com/shafiqa123personal-do/bot-playbook-templates/main/01-whatsapp-ai-chatbot/whatsapp-ai-chatbot.json
+   https://raw.githubusercontent.com/quophysage-Storming/Ai-chatbot-s/refs/heads/main/01-whatsapp-ai-chatbot/whatsapp-ai-chatbot.json
    ```
    Or download [`whatsapp-ai-chatbot.json`](whatsapp-ai-chatbot.json) and use **Import from File**.
 2. **Meta app** (developers.facebook.com): create an app that connects with customers through WhatsApp. In **WhatsApp › API Setup**, add your own phone number under **To**. Copy the **WhatsApp Business Account ID** and the **access token**. In **App settings › Basic**, copy the **App ID** and **App Secret**, add your privacy policy and terms links, and switch the app to **Live**.
